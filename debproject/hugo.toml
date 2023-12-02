@@ -1,0 +1,4 @@
+baseURL = 'https://debproject.github.io/'
+languageCode = 'en-us'
+title = 'Learning Virtualization: A Debian Project'
+theme='hugo-rocinante'

@@ -1,0 +1,4 @@
+[submodule "debproject/public"]
+	path = debproject/public
+	url = https://github.com/onlyformutjay/debproject.github.io.git
+	branch = main
